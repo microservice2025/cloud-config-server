@@ -1,1 +1,2 @@
-
+service:
+  name: Spring Cloud Service Production
